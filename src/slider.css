@@ -1,0 +1,4 @@
+.carousel-container:hover{
+    -webkit-transform: scale(1.08);
+    transform: scale(1.08)
+}
